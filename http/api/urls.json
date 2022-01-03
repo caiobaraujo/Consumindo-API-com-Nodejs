@@ -1,0 +1,18 @@
+{
+  "urls": [
+    {
+      "name": "Google",
+      "url": "http://www.google.com/search?q=%s"
+    },
+    {
+      "name": "RocktSeat",
+      "url": "http://www.rocketseat.com.br"
+    },
+    {},
+    {
+      "name": "CaioDev",
+      "url": "http://www.caiodev.com.br"
+    },
+    {}
+  ]
+}
